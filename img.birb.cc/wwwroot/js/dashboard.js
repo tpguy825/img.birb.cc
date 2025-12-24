@@ -208,7 +208,7 @@ function downloadSH() {
 
 function downloadSXCU() {
     var SXCU = `{
-    "Version": "13.7.0",
+    "Version": "18.0.1",
     "Name": "birb.cc",
     "DestinationType": "ImageUploader",
     "RequestMethod": "POST",
